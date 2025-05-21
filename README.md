@@ -63,7 +63,13 @@ To develop and evaluate a neural network model that can predict the median value
 - **Validation Results**  
   Per-fold MAE values plotted to compare model consistency across different validation sets.
 
-  
+ ![Image](https://github.com/user-attachments/assets/f0fa0e55-f174-4919-b33d-5b35769322a6)
+
+![Image](https://github.com/user-attachments/assets/ccb8cfaf-6079-423d-b57e-5df360b31115)
+
+![Image](https://github.com/user-attachments/assets/9ea2718a-fbb3-4f37-b150-c8ab2777496a)
+
+![Image](https://github.com/user-attachments/assets/4c3cacb4-43f9-49c8-94e3-e30781536e70) 
 
 ---
 
